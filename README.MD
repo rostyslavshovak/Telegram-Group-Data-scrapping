@@ -25,7 +25,7 @@ This script connects to a Telegram group, retrieves images, performs OCR to extr
 - **Progress Visualization**: Integrated `tqdm` for real-time progress bars during processing.
 - **Flexible Configuration**: Customize runtime arguments such as API credentials, group identification, output paths, and OCR settings.
 
-## Technologies Used
+## Technologies Used 
 - **Python 3.7+
 - **Telethon: For interacting with the Telegram API.
 - **EasyOCR: For Optical Character Recognition.
