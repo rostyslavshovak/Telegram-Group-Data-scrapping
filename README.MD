@@ -25,20 +25,15 @@ This script connects to a Telegram group, retrieves images, performs OCR to extr
 - **Progress Visualization**: Integrated `tqdm` for real-time progress bars during processing.
 - **Flexible Configuration**: Customize runtime arguments such as API credentials, group identification, output paths, and OCR settings.
 
-## Technologies Used 
-- **Python 3.7+
-- **Telethon: For interacting with the Telegram API.
-- **EasyOCR: For Optical Character Recognition.
-- **Pandas: For data manipulation and Excel file handling.
-- **Tqdm: For progress visualization.
-- **OpenPyXL: For reading and writing Excel files.
-- **Pillow (PIL): For image processing.
+## Technologies Used
+- **Telethon**: For interacting with the Telegram API.
+- **EasyOCR**: For Optical Character Recognition.
+- **Pandas**: For data manipulation and Excel file handling.
+- **Tqdm**: For progress visualization.
+- **OpenPyXL**: For reading and writing Excel files.
+- **Pillow (PIL)**: For image processing.
 
 ## Installation
-
-### Prerequisites
-
-- **Python 3.7 or higher**: Ensure Python is installed on your system.
 
 ### Clone the Repository
 
